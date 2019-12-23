@@ -7,7 +7,7 @@
 
 ### Pull Requests
 #### 2. `[2019-1221]` NG-ZORRO/ng-zorro-antd: [#4584](https://github.com/NG-ZORRO/ng-zorro-antd/pull/4584)
-* > `WIP`: refactor: change cursor styles for Resizable
+* > `WIP`: refactor(module: resizable): change cursor styles
 #### 1. `[2019-1129]` YOURLS/awesome-yourls: [#51](https://github.com/YOURLS/awesome-yourls/pull/51)
 * > `2 Days`: Add OAuth_Sign_In
 
