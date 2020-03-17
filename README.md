@@ -36,3 +36,6 @@
 #### 1. `[2019-0518]` [Bootstrap-LoadingFallbackPlan](https://github.com/LouisSung/Bootstrap-LoadingFallbackPlan)
 * > `Fallback plan for Bootstrap`: Load Bootstrap from self-hosting server when that from CDN failed
 
+### Configs
+#### 1. `2020-0317` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
+* > `Config files for TypeScript`: Written for NestJS and Angular
