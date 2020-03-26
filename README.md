@@ -2,6 +2,12 @@
 
 ## Open Source Projects
 ### Issues
+#### 4. `[2020-0323` bennymeg/nx-electron: [#12](https://github.com/bennymeg/nx-electron/issues/12)
+* > WIP: 2 Days`: About current features and abilities
+#### 3. `[2020-0321]` nrwl/nx: [#2701](https://github.com/nrwl/nx/issues/2701)
+* > `5 Days`: About debug NestJS in Nx using WebStorm
+#### 2. `[2020-0119]` clientIO/joint: [#1239](https://github.com/clientIO/joint/issues/1239#issuecomment-575969283)
+* > `No reply`: memory leaks still happen even the paper.remove() is called
 #### 1. `[2019-1125]` gridstack/gridstack.js: [#1068](https://github.com/gridstack/gridstack.js/issues/1068)
 * > `2 Days`: cellHeight(val) does not work properly on v0.5.3 (but OK on v0.5.2)
 
@@ -11,7 +17,7 @@
 #### 1. `[2019-1129]` YOURLS/awesome-yourls: [#51](https://github.com/YOURLS/awesome-yourls/pull/51)
 * > `2 Days`: Add OAuth_Sign_In
 
-### Others
+### Plugins and Tutorials for Other Projects
 #### 2. `[2019-1130]` LouisSung: [YOURLS-Run_with_Docker](https://github.com/LouisSung/YOURLS-Run_with_Docker)
 * > `Tutorial for YOURLS and Docker`: Run YOURLS with docker (and php-fpm)
 #### 1. `[2019-1129]` LouisSung: [YOURLS-OAuth_Sign_In](https://github.com/LouisSung/YOURLS-OAuth_Sign_In)
@@ -30,12 +36,12 @@
 #### 1. `[2019-1230]` [Angular_JointJS_nzContextMenu-Context_Menu_Controller](https://github.com/LouisSung/Angular_JointJS_nzContextMenu-Context_Menu_Controller)
 * > `Add Context Menu in JointJS`: Add context menu support for JointJS in Angular (using ContextMenu provided by NG-ZORRO)
 
-### Plugins
+### Snippets and Plugins
 #### 2. `[2019-1206]` [Angular_decorator-Debounce_and_Throttle](https://github.com/LouisSung/Angular_decorator-Debounce_and_Throttle)
 * > `Decorator helps on delay actions`: Angular decorator to add debounce or throttle to functions (in order to reduce frequency of event trigger)
 #### 1. `[2019-0518]` [Bootstrap-LoadingFallbackPlan](https://github.com/LouisSung/Bootstrap-LoadingFallbackPlan)
 * > `Fallback plan for Bootstrap`: Load Bootstrap from self-hosting server when that from CDN failed
 
-### Configs
+### Configs and Examples
 #### 1. `2020-0317` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
 * > `Config files for TypeScript`: Written for NestJS and Angular
