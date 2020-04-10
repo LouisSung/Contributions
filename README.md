@@ -2,8 +2,12 @@
 
 ## Open Source Projects
 ### Issues
-#### 4. `[2020-0323` bennymeg/nx-electron: [#12](https://github.com/bennymeg/nx-electron/issues/12)
-* > WIP: 2 Days`: About current features and abilities
+#### 6. `[2020-0411]` angular-eslint/angular-eslint: [#60](https://github.com/angular-eslint/angular-eslint/issues/60#issuecomment-612144277)
+* > `WIP`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
+#### 5. `[2020-0406]` gitlab-org/gitlab: [#213321](https://gitlab.com/gitlab-org/gitlab/-/issues/213321#note_317852342)
+* > `1 Day`: Premission issue for files uploading
+#### 4. `[2020-0323]` bennymeg/nx-electron: [#12](https://github.com/bennymeg/nx-electron/issues/12)
+* > `7 Days`: About current features and abilities
 #### 3. `[2020-0321]` nrwl/nx: [#2701](https://github.com/nrwl/nx/issues/2701)
 * > `5 Days`: About debug NestJS in Nx using WebStorm
 #### 2. `[2020-0119]` clientIO/joint: [#1239](https://github.com/clientIO/joint/issues/1239#issuecomment-575969283)
@@ -45,3 +49,7 @@
 ### Configs and Examples
 #### 1. `2020-0317` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
 * > `Config files for TypeScript`: Written for NestJS and Angular
+
+### Issues
+#### 1. `2020-0408` LouisSung/YOURLS-OAuth_Sign_In: [#1](https://github.com/LouisSung/YOURLS-OAuth_Sign_In/issues/1)
+* > `2 Days`: Using customized OAuth provider (within non-Docker environment)
