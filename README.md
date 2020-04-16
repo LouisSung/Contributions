@@ -2,6 +2,10 @@
 
 ## Open Source Projects
 ### Issues
+#### 8. `[2020-0414]` NG-ZORRO/ng-zorro-antd: [#5023](https://github.com/NG-ZORRO/ng-zorro-antd/issues/5023)
+* > `1 Day`: bug(module:button): class `ant-btn-icon-only` is not applied to the `icon-only-button`
+#### 7. `[2020-0414]` danvk/source-map-explorer: [#184](https://github.com/danvk/source-map-explorer/issues/184)
+* > `2 Days`: Question about `Check that you are using the correct source map.`
 #### 6. `[2020-0411]` angular-eslint/angular-eslint: [#60](https://github.com/angular-eslint/angular-eslint/issues/60#issuecomment-612144277)
 * > `WIP`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
 #### 5. `[2020-0406]` gitlab-org/gitlab: [#213321](https://gitlab.com/gitlab-org/gitlab/-/issues/213321#note_317852342)
