@@ -2,12 +2,18 @@
 
 ## Open Source Projects
 ### Issues
+#### 11. `[2020-1103]` rfennell/AzurePipelines: [#876](https://github.com/rfennell/AzurePipelines/issues/876)
+* > `2 Days`: Is it possible to do async function (e.g., get data from APIs) within custom Handlebars extension?
+#### 10. `[2020-0724]` mattermost/mattermost-plugin-autolink: [#124](https://github.com/mattermost/mattermost-plugin-autolink/issues/124)
+* > `no response`: Error rendering when using @customgroup in mobile app
+#### 9. `[2020-0515]` NG-ZORRO/ng-zorro-antd: [#5228](https://github.com/NG-ZORRO/ng-zorro-antd/issues/5288)
+* > `WIP? added to milestone`: FeatureRequest(Component: Tree): Keyboard control for tree expand, collapse, and node focus
 #### 8. `[2020-0414]` NG-ZORRO/ng-zorro-antd: [#5023](https://github.com/NG-ZORRO/ng-zorro-antd/issues/5023)
 * > `1 Day`: bug(module:button): class `ant-btn-icon-only` is not applied to the `icon-only-button`
 #### 7. `[2020-0414]` danvk/source-map-explorer: [#184](https://github.com/danvk/source-map-explorer/issues/184)
 * > `2 Days`: Question about `Check that you are using the correct source map.`
 #### 6. `[2020-0411]` angular-eslint/angular-eslint: [#60](https://github.com/angular-eslint/angular-eslint/issues/60#issuecomment-612144277)
-* > `WIP`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
+* > `6 Days`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
 #### 5. `[2020-0406]` gitlab-org/gitlab: [#213321](https://gitlab.com/gitlab-org/gitlab/-/issues/213321#note_317852342)
 * > `1 Day`: Premission issue for files uploading
 #### 4. `[2020-0323]` bennymeg/nx-electron: [#12](https://github.com/bennymeg/nx-electron/issues/12)
@@ -35,6 +41,7 @@
 ## My Projects
 ### Tools
 #### 2. `[2019-0425]` [LaTeXDiff_Git](https://github.com/LouisSung/LaTeXDiff_Git)
+* > **⚝** Included in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) **⚝**
 * > `For LaTeX diff and Git`: Generate diff PDFs by Git commits for LaTeX
 #### 1. `[2017-1105]` [GrafcetCcodeGenerator](https://github.com/LouisSung/GrafcetCcodeGenerator)
 * > `For MIAT Methodology`: Generate C code template by corresponding Grafcet flow chart
@@ -51,9 +58,9 @@
 * > `Fallback plan for Bootstrap`: Load Bootstrap from self-hosting server when that from CDN failed
 
 ### Configs and Examples
-#### 1. `2020-0317` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
+#### 1. `[2020-0317]` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
 * > `Config files for TypeScript`: Written for NestJS and Angular
 
 ### Issues
-#### 1. `2020-0408` LouisSung/YOURLS-OAuth_Sign_In: [#1](https://github.com/LouisSung/YOURLS-OAuth_Sign_In/issues/1)
+#### 1. `[2020-0408]` LouisSung/YOURLS-OAuth_Sign_In: [#1](https://github.com/LouisSung/YOURLS-OAuth_Sign_In/issues/1)
 * > `2 Days`: Using customized OAuth provider (within non-Docker environment)
