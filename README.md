@@ -1,4 +1,15 @@
 # Contributions | LouisSung
+## Mottoes
+### 2. Copyleft
+```
+If you are good at something, never do it for free; instead, share it for free.
+                                                      - @LouisSung; Sep. 24, 2021
+```
+### 1. Jokers
+```
+If life is a joke, we're jokers.
+       - @LouisSung; Oct. 09, 2019
+```
 
 ## Open Source Projects
 ### Issues
