@@ -5,11 +5,13 @@
 If you are good at something, never do it for free; instead, share it for free.
                                                       - @LouisSung; Sep. 24, 2021
 ```
+
 ### 1. Jokers
 ```
 If life is a joke, we're jokers.
        - @LouisSung; Oct. 09, 2019
 ```
+
 
 ## Open Source Projects
 ### Pull Requests
@@ -17,7 +19,7 @@ If life is a joke, we're jokers.
 * > `1 Day`: Disable JSX:React to prevent syntax conflict with angle-bracket style type assertion in Playground  
   > `Related`: microsoft/TypeScript#45308
 #### 5. `[2021.07.05]` RocketChat/Rocket.Chat: [#22564](https://github.com/RocketChat/Rocket.Chat/pull/22564)
-* > `Pending`: [FIX] Prevent user creation for custom OAuth when registration is disabled and LDAP is enabled
+* > `Pending`: [FIX] Prevent user creation for custom OAuth when registration is disabled and LDAP is enabled  
   > `Related`: #15787 and #20671
 #### 4. `[2021.01.31]` rfennell/AzurePipelines: [#937](https://github.com/rfennell/AzurePipelines/pull/937)
 * > `3 Days`: Support build info restoring when using Pipeline Artifacts  
@@ -29,17 +31,12 @@ If life is a joke, we're jokers.
 #### 1. `[2019.11.29]` YOURLS/awesome-yourls: [#51](https://github.com/YOURLS/awesome-yourls/pull/51)
 * > `2 Days`: Add OAuth_Sign_In
 
+
 ### Issues
-#### 23. `[2022.03.10]` kaleidos-ventures/taiga-docker: [#67](https://github.com/kaleidos-ventures/taiga-docker/issues/67)
-* > `1 Day`: [Q] Tutorial to enable GitLab/GitHub OAuth while keeping PUBLIC_REGISTER_ENABLED=False
-#### 22. `[2022.03.10]` kaleidos-ventures/taiga-back: [#54-comment](https://github.com/kaleidos-ventures/taiga-back/issues/54#issuecomment-1063185179)
-* > `Resolved`: [BUG] Taiga database could not be upgraded to Postgresql 14
-#### 21. `[2022.03.03]` nextcloud/server: [#30566-comment](https://github.com/nextcloud/server/issues/30566#issuecomment-1057318783)
-* > `Resolved`: Unrecongized file extensions are prompted for download instead of opening in text editor
 #### 20. `[2021.07.01]` RocketChat/Rocket.Chat: [#22125-comment](https://github.com/RocketChat/Rocket.Chat/issues/22125#issuecomment-871586042)
 * > `Closed`: RocketChat /home randomly not loaded when embedded in iFrame
-#### 19. `[2021.05.30]` yarnpkg/berry: [#2955](https://github.com/yarnpkg/berry/issues/2955)
-* > `12 Days`: [Bug]The yarn set version from source breaks with Usage Error: Couldn't find the node_modules state file when the YARN_NODE_LINKER=node-modules is set
+#### 19. `[2021.05.30]` pkg/berry: [#2955](https://github.com/yarnpkg/berry/issues/2955)
+* > `12 Days`: [Bug]The `yarn set version from source` breaks with `Usage Error: Couldn't find the node_modules state file` when the `YARN_NODE_LINKER=node-modules` is set
 #### 18. `[2021.05.27]` yarnpkg/berry: [#2935-comment](https://github.com/yarnpkg/berry/issues/2935#issuecomment-849299773)
 * > `Closed`: [Bug] Cannot install typescript 4.3.2 with yarn 2 / node_modules linker
 #### 17. `[2021.05.26]` yarnpkg/yarn: [#8638](https://github.com/yarnpkg/yarn/issues/8638)
@@ -49,9 +46,9 @@ If life is a joke, we're jokers.
 #### 15. `[2021.01.07]` rfennell/AzurePipelines: [#918](https://github.com/rfennell/AzurePipelines/issues/918)
 * > `7 Days`: Mismatched Host header using proxy in XplatGenerateReleaseNotes@3.39.2
 #### 14. `[2020.12.17]` rfennell/AzurePipelines: [#909](https://github.com/rfennell/AzurePipelines/issues/909)
-* > `1 Day`: Bug report: getIndirectPullRequests() gets TypeError: Cannot read property 'commitId' of undefined
+* > `1 Day`: Bug report: `getIndirectPullRequests()` gets `TypeError: Cannot read property 'commitId' of undefined`
 #### 13. `[2020.11.18]` rfennell/AzurePipelines: [#885](https://github.com/rfennell/AzurePipelines/issues/885)
-* > `19 Days`: The compareReleaseDetails becomes the same as releaseDetails when manually retrigger the deployment (additional: empty workitems issue)
+* > `19 Days`: The `compareReleaseDetails` becomes the same as `releaseDetails` when manually retrigger the deployment (additional: empty workitems issue)
 #### 12. `[2020.11.03]` rfennell/AzurePipelines: [#876](https://github.com/rfennell/AzurePipelines/issues/876)
 * > `2 Days`: Is it possible to do async function (e.g., get data from APIs) within custom Handlebars extension?
 #### 11. `[2020.07.24]` mattermost/mattermost-plugin-autolink: [#124](https://github.com/mattermost/mattermost-plugin-autolink/issues/124)
@@ -65,7 +62,7 @@ If life is a joke, we're jokers.
 #### 7. `[2020.04.14]` danvk/source-map-explorer: [#184](https://github.com/danvk/source-map-explorer/issues/184)
 * > `2 Days`: Question about `Check that you are using the correct source map.`
 #### 6. `[2020.04.11]` angular-eslint/angular-eslint: [#60-comment](https://github.com/angular-eslint/angular-eslint/issues/60#issuecomment-612144277)
-* > `6 Days`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
+* > `Resolved`: ESLint Error (Bug): `TypeError: Cannot read property 'range' of undefined`
 #### 5. `[2020.04.06]` gitlab-org/gitlab: [#213321](https://gitlab.com/gitlab-org/gitlab/-/issues/213321#note_317852342)
 * > `1 Day`: Premission issue for files uploading
 #### 4. `[2020.03.23]` bennymeg/nx-electron: [#12](https://github.com/bennymeg/nx-electron/issues/12)
@@ -77,11 +74,23 @@ If life is a joke, we're jokers.
 #### 1. `[2019.11.25]` gridstack/gridstack.js: [#1068](https://github.com/gridstack/gridstack.js/issues/1068)
 * > `2 Days`: cellHeight(val) does not work properly on v0.5.3 (but OK on v0.5.2)
 
-### Plugins and Tutorials for Other Projects
+
+### Tutorials
+#### 7. `[2022.03.20]` flutter/flutter: [#78153](https://github.com/flutter/flutter/issues/78153#issuecomment-1073202440)
+* > `Resolved`: Support Microsoft Edge on Mac and Linux in flutter run
+#### 6. `[2022.03.10]` kaleidos-ventures/taiga-docker: [#67](https://github.com/kaleidos-ventures/taiga-docker/issues/67)
+* > `1 Day`: [Q] Tutorial to enable GitLab/GitHub OAuth while keeping `PUBLIC_REGISTER_ENABLED=False`
+#### 5. `[2022.03.10]` kaleidos-ventures/taiga-back: [#54-comment](https://github.com/kaleidos-ventures/taiga-back/issues/54#issuecomment-1063185179)
+* > `Resolved`: [BUG] Taiga database could not be upgraded to Postgresql 14
+#### 4. `[2022.03.03]` nextcloud/server: [#30566-comment](https://github.com/nextcloud/server/issues/30566#issuecomment-1057318783)
+* > `Resolved`: Unrecongized file extensions are prompted for download instead of opening in text editor
+#### 3. `[2021.04.27]` LouisSung: [rc-dev](https://github.com/LouisSung/rc-dev)
+* > `Rocket.Chat development with Docker`: preinstalled packages for offline development environment using Docker image
 #### 2. `[2019.11.30]` LouisSung: [YOURLS-Run_with_Docker](https://github.com/LouisSung/YOURLS-Run_with_Docker)
 * > `Tutorial for YOURLS and Docker`: Run YOURLS with docker (and php-fpm)
 #### 1. `[2019.11.29]` LouisSung: [YOURLS-OAuth_Sign_In](https://github.com/LouisSung/YOURLS-OAuth_Sign_In)
 * > `Plugin for YOURLS`: Enable OAuth sign in support (using GitLab as an example)
+
 
 ---
 ## My Own Projects
@@ -93,19 +102,26 @@ If life is a joke, we're jokers.
 * > `For MIAT Methodology`: Generate C code template by corresponding Grafcet flow chart
   + `Requires refactoring` It's an old project for my independent study in college. _(;3
 
+
 ### Libraries
 #### 1. `[2019.12.30]` [Angular_JointJS_nzContextMenu-Context_Menu_Controller](https://github.com/LouisSung/Angular_JointJS_nzContextMenu-Context_Menu_Controller)
 * > `Add Context Menu in JointJS`: Add context menu support for JointJS in Angular (using ContextMenu provided by NG-ZORRO)
 
+
 ### Snippets and Plugins
+#### 3. `[2021.01.06]` [UndoFunc](https://github.com/LouisSung/UndoFunc)
+* > `Function undo in Python`: Sample implementation of function calls undo (undo pattern) with Python  
+  > see also: [`undo.py`](https://github.com/zzalice/DCResourceAllocation/blob/master/src/resource_allocation/ds/undo.py) and [`test_undo.py`](https://github.com/zzalice/DCResourceAllocation/blob/master/tests/test_undo.py) in the form of **Python Decorators**
 #### 2. `[2019.12.06]` [Angular_decorator-Debounce_and_Throttle](https://github.com/LouisSung/Angular_decorator-Debounce_and_Throttle)
 * > `Decorator helps on delay actions`: Angular decorator to add debounce or throttle to functions (in order to reduce frequency of event trigger)
 #### 1. `[2019.05.18]` [Bootstrap-LoadingFallbackPlan](https://github.com/LouisSung/Bootstrap-LoadingFallbackPlan)
 * > `Fallback plan for Bootstrap`: Load Bootstrap from self-hosting server when that from CDN failed
 
+
 ### Configs and Examples
 #### 1. `[2020.03.17]` [TypeScript-Linter_and_Git_Hooks](https://github.com/LouisSung/TypeScript-Linter_and_Git_Hooks)
 * > `Config files for TypeScript`: Written for NestJS and Angular
+
 
 ### Issues
 #### 1. `[2020.04.08]` LouisSung/YOURLS-OAuth_Sign_In: [#1](https://github.com/LouisSung/YOURLS-OAuth_Sign_In/issues/1)
