@@ -76,8 +76,10 @@ If life is a joke, we're jokers.
 
 
 ### Tutorials
+#### 8. `[2022.04.17]` nextcloud/text: [#1171-comment](https://github.com/nextcloud/text/issues/1171#issuecomment-1100890031)
+* > `WontFix`: Find another solution for editing the readme.md
 #### 7. `[2022.03.20]` flutter/flutter: [#78153](https://github.com/flutter/flutter/issues/78153#issuecomment-1073202440)
-* > `Resolved`: Support Microsoft Edge on Mac and Linux in flutter run
+* > `Closed`: Support Microsoft Edge on Mac and Linux in flutter run
 #### 6. `[2022.03.10]` kaleidos-ventures/taiga-docker: [#67](https://github.com/kaleidos-ventures/taiga-docker/issues/67)
 * > `1 Day`: [Q] Tutorial to enable GitLab/GitHub OAuth while keeping `PUBLIC_REGISTER_ENABLED=False`
 #### 5. `[2022.03.10]` kaleidos-ventures/taiga-back: [#54-comment](https://github.com/kaleidos-ventures/taiga-back/issues/54#issuecomment-1063185179)
